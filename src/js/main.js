@@ -36,3 +36,7 @@
 																																																				               });
 																																																					               }
 																																																						           }
+																																																							   $(D).ready(function($) {
+																																																							   JQUERY4U.UTIL.setupFormValidation();
+																																																							       });
+																																																							       })(jQuery, window, document);
